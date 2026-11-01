@@ -23,6 +23,7 @@
 - 🌱 Learning something new every day
 
 ---
+
 <div align="center">
 
 <picture>
@@ -33,9 +34,11 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saidraya19&bg_color=0d1117&color=10B981&line=10B981&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
