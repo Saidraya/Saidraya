@@ -32,9 +32,7 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/saidraya19/saidraya19/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saidraya19&bg_color=0d1117&color=10B981&line=10B981&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
