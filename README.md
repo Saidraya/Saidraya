@@ -75,8 +75,8 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=saidraya19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidraya19&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saidraya19&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saidraya19&theme=tokyonight" />
 
 <br/>
 
