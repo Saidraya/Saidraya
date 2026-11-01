@@ -95,7 +95,7 @@
 - [ ] Build and launch my own startup 🚀
 
 ---
-
+<img src="https://raw.githubusercontent.com/saidraya19/saidraya19/output/github-snake-dark.svg" width="100%" />
 ## 📫 Let's connect
 
 <div align="center">
