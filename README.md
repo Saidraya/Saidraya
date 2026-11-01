@@ -1,59 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:10B981&height=200&section=header&text=Said%20Raya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://raw.githubusercontent.com/saidraya19/saidraya19/main/assets/banner.svg" width="100%" alt="Said Raya banner" />
+
+<a href="https://github.com/saidraya19">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=560&lines=Hi+there!+%F0%9F%91%8B+I'm+Said;I+solve+problems+in+C+%26+C%2B%2B+%F0%9F%A7%A9;I+build+web+apps+with+JS+%26+Tailwind+%F0%9F%9A%80;Learn+%E2%86%92+Work+%E2%86%92+Build+my+own+startup+%F0%9F%92%A1" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=saidraya19&color=10b981&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/saidraya19?style=for-the-badge&logo=github&color=00599C)
 
 </div>
 
-Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="40" width="40" />, What's up?
-===============================================================================================================================
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2970&pause=997&color=10B981&vCenter=true&random=false&width=1000&height=70&lines=I'm+Said%2C+a+Student+Developer+from+Morocco.%F0%9F%9A%80;I+solve+problems+in+C+%26+C%2B%2B+%F0%9F%A7%A9;Learn+%E2%86%92+Work+%E2%86%92+Build+my+own+startup+%F0%9F%92%A1)](https://github.com/saidraya19)
-
------------------------------------------------------------
-
-👨🏻‍💻 **About Me**
-✨ Student developer | Problem solving enthusiast <br>
-⚡ Building web apps with HTML, Tailwind & JavaScript <br>
-📫 How to reach me: [saidrayaprintvip19@gmail.com](mailto:saidrayaprintvip19@gmail.com) <br>
-💬 Ask me about C, C++, JavaScript, Git & problem solving. <br>
-🚀 Goal: Learn → Work in a great company → Build my own startup <br>
-
-<b>🛠 Tech Stack </b><br><br>
-Languages: <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">&nbsp;<br>
-Frameworks: <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat">&nbsp;<br>
-Platforms: <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat">&nbsp;
-
 ---
 
-## 📂 Projects
+## 👨‍💻 About me
 
-- 🧩 [problem-solving-c](https://github.com/saidraya19/problem-solving-c): 120+ C exercises
-- 🧩 [problem-solving-cpp](https://github.com/saidraya19/problem-solving-cpp): C++ exercises
-- ⚽ **Tachkila**: football squad manager (HTML, Tailwind, JS)
-- 🏦 [bankproject_ATM](https://github.com/saidraya19/bankproject_ATM): ATM simulation
-
----
-
-## 🟡 My Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saidraya19/saidraya19/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saidraya19/saidraya19/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saidraya19/saidraya19/output/pacman-contribution-graph.svg">
-</picture>
+- 🎓 Student developer, based in **Morocco** 🇲🇦
+- 🧠 Currently deep into **problem solving** (strings, arrays, pointers, algorithms)
+- 🌐 Building web projects with **HTML, Tailwind CSS & JavaScript**
+- 🌱 Learning something new every day
 
 ---
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saidraya19/saidraya19/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saidraya19/saidraya19/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/saidraya19/saidraya19/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saidraya19&bg_color=0d1117&color=10B981&line=10B981&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [🧩 problem-solving-c](https://github.com/saidraya19/problem-solving-c) | 120+ C exercises: strings, pointers, number bases, algorithms | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) |
+| [🧩 problem-solving-cpp](https://github.com/saidraya19/problem-solving-cpp) | C++ exercises: vectors, structs, dates, algorithms | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) |
+| [🧩 problem-solving-js](https://github.com/saidraya19/problem-solving-js) | JavaScript challenges and exercises | ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) |
+| [🧩 problem-solving-python](https://github.com/saidraya19/problem-solving-python) | Python exercises and algorithms | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| ⚽ **Tachkila** | Football squad manager: add, edit, filter players, captain, lineup | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) |
+| 🏦 [bankproject_ATM](https://github.com/saidraya19/bankproject_ATM) | ATM / bank simulation project | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saidraya19&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saidraya19&theme=tokyonight" />
+
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=saidraya19&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 My Path
+
+<div align="center">
+
+```
+📚 Learn   →   💼 Work   →   🚀 Build my own startup
+```
+
+</div>
+
+- 📚 **Now:** getting the most out of my studies, problem solving and web development
+- 💼 **Next:** joining a company, learning from real teams and real products
+- 🚀 **Then:** leaving to build my own startup
+
+### ✅ Progress
+
+- [x] Push all my C, C++, JS and Python exercises to GitHub
+- [ ] Master the fundamentals (data structures & algorithms)
+- [ ] Land a job at a great company and grow as an engineer
+- [ ] Learn how products are built, shipped and scaled
+- [ ] Build and launch my own startup 🚀
+
+---
+
+## 📫 Let's connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-saidraya19-181717?style=for-the-badge&logo=github)](https://github.com/saidraya19)
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidrayaprintvip19@gmail.com)
+
+<br/>
+
+*"Every expert was once a beginner."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:00599C&height=100&section=footer" width="100%" />
 
