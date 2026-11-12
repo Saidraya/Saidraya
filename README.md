@@ -101,7 +101,6 @@
 
 ### ✅ Progress
 
-- [x] Push all my C, C++, JS and Python exercises to GitHub
 - [ ] Master the fundamentals (data structures & algorithms)
 - [ ] Land a job at a great company and grow as an engineer
 - [ ] Learn how products are built, shipped and scaled
