@@ -66,7 +66,7 @@
 | [🧩 problem-solving-js](https://github.com/saidraya19/problem-solving-js) | JavaScript challenges and exercises | ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) |
 | [🧩 problem-solving-python](https://github.com/saidraya19/problem-solving-python) | Python exercises and algorithms | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | ⚽ **Tachkila** | Football squad manager: add, edit, filter players, captain, lineup | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) |
-| 🏦 [bankproject_ATM](https://github.com/saidraya19/bankproject_ATM) | ATM / bank simulation project | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) |
+| 🏦 [bankproject_ATM](https://github.com/Saidraya/bankproject_ATM) | ATM / bank simulation project | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) |
 
 ---
 
@@ -74,12 +74,12 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saidraya19&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saidraya&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saidraya19&theme=tokyonight" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=saidraya19&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Saidraya&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -113,7 +113,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-saidraya19-181717?style=for-the-badge&logo=github)](https://github.com/saidraya19)
+[![GitHub](https://img.shields.io/badge/GitHub-Saidraya-181717?style=for-the-badge&logo=github)](https://github.com/Saidraya)
 [![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidrayaprintvip19@gmail.com)
 
 <br/>
