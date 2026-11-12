@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=saidraya19&color=10b981&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=Saidraya&color=10b981&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/saidraya19?style=for-the-badge&logo=github&color=00599C)
 
 </div>
@@ -27,9 +27,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saidraya19/saidraya19/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saidraya19/saidraya19/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/saidraya19/saidraya19/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saidraya19/Saidraya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saidraya19/Saidraya/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Saidraya/Saidraya/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 
